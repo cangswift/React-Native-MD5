@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeMD5'
+
+include ':app'
